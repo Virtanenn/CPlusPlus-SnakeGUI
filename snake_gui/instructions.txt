@@ -16,23 +16,3 @@ place as start button. If you lose or win the game, you may set up a new game by
 pressing SET GAME
 
 
-
-ADDITIONAL FEATURES ARE LISTED BELOW:
- 1. Size of the gameboard can be adjusted within the game.
-    Width and height can range from 3 to 10.                                     (10 p)
- 2. Snakes length is written on the side of the game and updates everytime
-      snake eats something.                                                      (5 p)
- 6. When losing the game, game informs the player was it due to hitting a
-    wall or was it due to snake trying to eat itself. This is shown in the
-    upper right side of the screen                                               (5 p)
- 7. Game has clock that tells the player how long the game has been on.         (5 p)
- 8. Game has score. Score is calculated with the following formula:             (15 p)
-      length * length * 2 - time(seconds). The longer the snake is, the harder
-      the game gets, so score rewards the player accordingly.
-      Time is deducted from the score so that faster players are rewarded with
-      higher score. The snakes movement becomes 3 milliseconds faster each time
-      snake eats something this is more noticeable when the game goes longer.
- 10. The background color is changed to red on death and green on victory.      (10 p)
- 11. Game has pause -option in the same button as play button.                  (10 p)
- 13. When snake eats food, that part of snake is bigger than the rest of    (15 p)
-          the body.
