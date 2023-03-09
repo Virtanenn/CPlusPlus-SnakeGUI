@@ -8,10 +8,6 @@
  *
  * * Program author:
  * Name: Timo Virtanen
- * Student number: 150769440
- * UserID: kktivi
- * E-Mail: timo.virtanen@tuni.fi
- *
  *
  * */
 
