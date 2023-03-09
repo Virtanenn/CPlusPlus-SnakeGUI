@@ -10,8 +10,12 @@
 #   Few return functions added. 2 functions each for returning     #
 #    food coordinates and 2 for snakes head coordinate.            #
 #    One for returning the snake                                   #
-# Class given by university, modified by:                          #
-# Timo Virtanen                                                    #
+#                                                                  #
+# Program author:                                                  #
+ # Name: Timo Virtanen                                             #
+ # Student number: 150769440                                       #
+ # UserID: kktivi                                                  #
+ # E-Mail: timo.virtanen@tuni.fi                                   #
 ####################################################################
 */
 
