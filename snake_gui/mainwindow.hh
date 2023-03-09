@@ -14,6 +14,10 @@
  *
  * * Program author:
  * Name: Timo Virtanen
+ * Student number: 150769440
+ * UserID: kktivi
+ * E-Mail: timo.virtanen@tuni.fi
+ *
  * Notes about the program and it's implementation:
  *      Snake can be made more smooth if third QTimer were added
  *      and every part of snake will be given moveBy() command direction.

@@ -9,8 +9,11 @@
 # Description: Declares a class representing a point in            #
 # the gameboard. 2 Return functions added.                         #
 #                                                                  #
-# Class given by university, modified by:                          #
-# Name: Timo Virtanen                                              #
+# Program author:                                                  #
+ # Name: Timo Virtanen                                             #
+ # Student number: 150769440                                       #
+ # UserID: kktivi                                                  #
+ # E-Mail: timo.virtanen@tuni.fi                                   #
 ####################################################################
 */
 #ifndef POINT_HH
